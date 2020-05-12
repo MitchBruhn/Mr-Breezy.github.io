@@ -1,1 +1,2 @@
 BTCH_1.0.0.bin
+BTSW_1.0.0.hex
